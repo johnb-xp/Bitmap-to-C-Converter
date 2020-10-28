@@ -9,7 +9,7 @@ Made for Dr. Widder's EE 2920 class
 How to use:
 1. Create an 84x48 monochrome bitmap file
 2. Resize to 420x240
-3. Click "See Inside", then select Stage, Backdrops, upload an image and select the image you want to scan.
+3. Open project in Scratch. Click "See Inside", then select Stage, Backdrops, upload an image and select the image you want to scan.
 4. Click the Run button (slow mode shows you exactly what is happening, drag the Fast Mode slider to 0 for slow mode)
 5. Right click the list that pops up, the select "Export"
 6. Paste exported text file with code below into a file named "bitmap.h". Delete the last comma in the list.
