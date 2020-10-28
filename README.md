@@ -1,8 +1,9 @@
 # Bitmap-to-C-Converter
-Generate an array of chars for displaying on Nokia 5110 LCD using Phillips PCD8544 LCD Controller
+Generate an array of chars for displaying on 84x48px Nokia 5110 LCD using Phillips PCD8544 LCD Controller. Used at the Milwaukee School of Engineering with a MSP 432 microcontroller development board.
 <br>
 
-Written in Scratch 3.0
+Written in Scratch 3.0 
+<br>
 Made for Dr. Widder's EE 2920 class
 <br>
 
