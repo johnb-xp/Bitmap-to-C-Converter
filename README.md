@@ -21,10 +21,20 @@ How to use:
 <b>Code for .h file:</b>
 
 #ifndef BITMAP_H__
+<br>
+
 #define BITMAP_H__
+<br>
+<br>
 
 static const char bilkeyconvert [] = {
+<br>
+
  // PASTE HERE
+ <br>
+
   };
+<br>
+<br>
 
 #endif BITMAP_H_
